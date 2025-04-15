@@ -69,6 +69,26 @@ a {
     width: 65%;
 }
 
+.cv-download {
+    margin-top: 20px;
+    text-align: center; /* Centers the button horizontally */
+  }
+  
+  .cv-download button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: darkslateblue;
+    color: burlywood;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .cv-download button:hover {
+    background-color: #483D8B; /* Darker shade on hover */
+  }
+  
+
 .gallery {
     padding: 20px;
     margin: 20px;
